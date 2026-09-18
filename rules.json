@@ -1,0 +1,18 @@
+{
+  "17912345678901234": {
+    "keyword": "LINK",
+    "type": "text",
+    "message": "नमस्ते! यह रहा रील #1 के नोट्स का डायरेक्ट लिंक: https://example.com/notes-part-1"
+  },
+  "17998765432109876": {
+    "keyword": "PDF",
+    "type": "file",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "message": "यहाँ आपकी पीडीएफ फाइल संलग्न है!"
+  },
+  "DEFAULT": {
+    "keyword": "LINK",
+    "type": "text",
+    "message": "यहाँ आपका लिंक है: https://example.com/general-link"
+  }
+}
